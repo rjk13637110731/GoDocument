@@ -19,6 +19,7 @@ func main() {
 	fmt.Printf("第五行-c的值为 %d\n", c)
 	a++
 	fmt.Printf("第六行-a的值为 %d\n", a)
+	a = 21
 	a--
-	fmt.Printf("第六行-a的值为 %d\n", a)
+	fmt.Printf("第七行-a的值为 %d\n", a)
 }
